@@ -1,0 +1,10 @@
+There are 3 file in source folder. Two are python files and the another one is text file.
+The text file has 30 lines in it.
+The main functon is in server folder. when we run the program. It run python file in terminal
+and process the text file in server file then send the processed three file to destination file as a zip file.
+Then unzip that file.
+
+Note: 
+when running the main file named(lab_exam.py),it will run two python file named salam and sum.
+the sum python takes 2 integer and show the sum of the two integers.
+then it process the text file.
